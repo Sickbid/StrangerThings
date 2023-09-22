@@ -1,6 +1,5 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import '/home/sickbid/coursework/block30/stranger-things/src'
 import './Logout.css';
 
 function Logout() {
